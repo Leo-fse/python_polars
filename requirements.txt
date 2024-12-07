@@ -1,0 +1,8 @@
+bokeh == 2.4.0
+numpy
+pandas
+openpyxl
+polars
+pydantic
+pyarrow
+fastexcel
